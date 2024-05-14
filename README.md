@@ -5,12 +5,16 @@
 ## 📝 Portfolios and Resume 
 
 ### {Português}
-Olá! Me chamo Pedro Hagge e sou um desenvolvedor BackEnd apaixonado, com uma ampla experiência em tecnologias como Node.js, Nest.js, Express, GoLang e .NET, além de proficiência em linguagens como JavaScript e TypeScript. No FrontEnd, trabalho com frameworks modernos como Next.js, Angular.js e React.js. Tenho grande conhecimento em soluções AWS, abrangendo desde serviços básicos como EC2 até serviços mais complexos como ECR, EKS e Route53. Sou também experiente na construção de pipelines de CI/CD utilizando Docker e CloudFormation. Estou sempre em busca de novos desafios e oportunidades para inovar e otimizar soluções em tecnologia.
+Olá! </br>
+</br>
+Me chamo Pedro Hagge e sou um desenvolvedor BackEnd apaixonado, com uma ampla experiência em tecnologias como Node.js, Nest.js, Express, GoLang e .NET, além de proficiência em linguagens como JavaScript e TypeScript. No FrontEnd, trabalho com frameworks modernos como Next.js, Angular.js e React.js. Tenho grande conhecimento em soluções AWS, abrangendo desde serviços básicos como EC2 até serviços mais complexos como ECR, EKS e Route53. Sou também experiente na construção de pipelines de CI/CD utilizando Docker e CloudFormation. Estou sempre em busca de novos desafios e oportunidades para inovar e otimizar soluções em tecnologia.
 
 --------------------------------------------------------------------------------------------------------------------
 
 ### {English}
-Hello! My name is Pedro Hagge and I am a passionate Backend Developer with extensive experience in technologies such as Node.js, Nest.js, Express, GoLang, and .NET, along with proficiency in JavaScript and TypeScript. In Frontend development, I work with modern frameworks like Next.js, Angular.js, and React.js. I have a deep understanding of AWS solutions, ranging from basic services like EC2 to more complex ones like ECR, EKS, and Route53. I am also skilled in building CI/CD pipelines using Docker and CloudFormation. I am constantly looking for new challenges and opportunities to innovate and optimize technology solutions.
+Hello! </br>
+</br>
+My name is Pedro Hagge and I am a passionate Backend Developer with extensive experience in technologies such as Node.js, Nest.js, Express, GoLang, and .NET, along with proficiency in JavaScript and TypeScript. In Frontend development, I work with modern frameworks like Next.js, Angular.js, and React.js. I have a deep understanding of AWS solutions, ranging from basic services like EC2 to more complex ones like ECR, EKS, and Route53. I am also skilled in building CI/CD pipelines using Docker and CloudFormation. I am constantly looking for new challenges and opportunities to innovate and optimize technology solutions.
 
 </br>
 </br>
